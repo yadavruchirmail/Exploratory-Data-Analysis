@@ -7,7 +7,10 @@ The goal is to understand the dataset, identify patterns, relationships, and pre
 EDA Highlights
 
 Data Cleaning: Handled missing values, duplicates, and outliers.
+
 Data Visualization: Plotted histograms, box plots, scatter plots, and correlation heatmaps to understand feature distributions and relationships.
+
 Feature Engineering: Created new features, transformed variables, and applied scaling.
+
 Statistical Analysis: Conducted hypothesis testing and calculated summary statistics.
 
